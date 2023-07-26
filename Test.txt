@@ -1,2 +1,4 @@
 publi class test{
 }
+void display(){
+}
