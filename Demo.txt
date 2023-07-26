@@ -5,3 +5,4 @@ public class Demo{
 int a;
 }
 
+public void m3();
