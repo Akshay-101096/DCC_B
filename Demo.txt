@@ -1,3 +1,7 @@
 public class Demo{
+
 	String b;
 }
+int a;
+}
+
