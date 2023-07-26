@@ -1,10 +1,12 @@
 public class Demo{
 
 	String b;
+	String f;
 }
 int a;
 }
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 public void m3();
 =======
@@ -13,3 +15,5 @@ public void m2();
 >>>>>>> Stashed changes
 
 int 101;
+public void m3();
+
