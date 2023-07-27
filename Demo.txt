@@ -3,6 +3,5 @@ public class Demo{
 	String b;
 	String f;
 }
-int a;
-}
+
 
