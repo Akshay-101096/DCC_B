@@ -1,9 +1,2 @@
-publi class test{
-<<<<<<< Updated upstream
-}
-void display(){
-=======
-display(){
-}
->>>>>>> Stashed changes
+public classTest{
 }
