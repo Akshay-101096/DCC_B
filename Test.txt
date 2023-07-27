@@ -1,2 +1,7 @@
 public classTest{
 }
+public void m1(){
+}
+
+public voidm2(){
+}
