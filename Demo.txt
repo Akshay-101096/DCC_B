@@ -3,5 +3,5 @@ public class Demo{
 	String b;
 	String f;
 }
-
+public void m1();
 
