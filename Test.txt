@@ -1,7 +1,10 @@
 public classTest{
 }
 public void m1(){
+<<<<<<< Updated upstream
 }
 
 public voidm2(){
+=======
+>>>>>>> Stashed changes
 }
